@@ -61,6 +61,11 @@ I believe in continuous learning. I'm an AWS Certified Solutions Architect – P
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node%2Ejs-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
 
@@ -86,12 +91,6 @@ I believe in continuous learning. I'm an AWS Certified Solutions Architect – P
 ![GitOps](https://img.shields.io/badge/GitOps-blue?style=flat)
 
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ndonnan&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Neal's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndonnan&layout=compact&hide_border=true" alt="Top languages">
-</p>
 
 ## 🤝 Connect with me
 
